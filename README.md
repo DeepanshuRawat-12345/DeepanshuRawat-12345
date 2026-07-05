@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Deepanshu Rawat</h1>
 
-<!--
-**DeepanshuRawat-12345/DeepanshuRawat-12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI/ML Enthusiast • Data Analytics • Python Developer
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 Incoming MCA Student
+
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+📊 Interested in Data Analytics and Computer Vision
+
+💻 Building real-world AI applications using Python
+
+🌱 Currently learning Deep Learning & SQL
+
+---
+
+## 🛠️ Tech Stack
+
+💻 Languages
+
+- Python
+- C++
+- JavaScript
+- PHP
+- SQL
+
+📚 Libraries
+
+- Pandas
+- NumPy
+- Scikit-Learn
+- OpenCV
+- Matplotlib
+
+🧠 AI/ML
+
+- Machine Learning
+- Data Analysis
+- Computer Vision
+
+🌐 Web
+
+- Flask
+- HTML
+- CSS
+- MySQL
+
+---
+
+## 📌 Current Goals
+
+✅ Build 15+ Projects
+
+✅ Get an AI/ML Internship
+
+✅ Master SQL
+
+✅ Learn Deep Learning
+
+✅ Contribute to Open Source
+
+---
+
+## 📫 Contact
+
+📧 deepanshurawat1912@gmail.com
